@@ -46,6 +46,7 @@ superscripts.
 %doc %{_texmfdistdir}/doc/latex/subsupscripts/README
 %doc %{_texmfdistdir}/doc/latex/subsupscripts/SubSupScripts.pdf
 %doc %{_texmfdistdir}/doc/latex/subsupscripts/SubSupScripts.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -56,3 +57,5 @@ superscripts.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
