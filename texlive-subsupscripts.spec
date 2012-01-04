@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-subsupscripts
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	A range of sub- and superscript commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subsupscripts
