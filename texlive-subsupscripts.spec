@@ -1,6 +1,6 @@
 Name:		texlive-subsupscripts
 Version:	16080
-Release:	1
+Release:	2
 Summary:	A range of sub- and superscript commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subsupscripts
