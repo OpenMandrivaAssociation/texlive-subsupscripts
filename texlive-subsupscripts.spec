@@ -3,7 +3,7 @@ Version:	16080
 Release:	2
 Summary:	A range of sub- and superscript commands
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subsupscripts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/subsupscripts
 License:	NOINFO
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subsupscripts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subsupscripts.doc.r%{version}.tar.xz
